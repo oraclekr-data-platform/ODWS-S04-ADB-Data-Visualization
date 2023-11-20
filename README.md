@@ -9,3 +9,4 @@ Oracle Search with Open Search는 완전관리형 서비스로 Open Search를 �
 
 
 
+![01opensearch](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/dd2abebc-7ae7-45d2-b472-961406259133)
