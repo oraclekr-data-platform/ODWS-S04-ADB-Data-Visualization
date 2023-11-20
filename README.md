@@ -1,6 +1,5 @@
 # ODWS-S04-ADB-Data-Visualization
 
-# ODWS-S04-ADB-Data-Visualization
 
 Oracle Data Platform 워크샵에서 Oracle Search Service with Open Search로 검색을 구현하는 부분입니다.
 
@@ -9,4 +8,4 @@ Oracle Search with Open Search는 완전관리형 서비스로 Open Search를 �
 
 
 
-![01opensearch](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/84ab431c-3c47-4ccb-9c0f-153669a10c41)
+
