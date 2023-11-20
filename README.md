@@ -9,3 +9,8 @@ Oracle Search with Open Search는 완전관리형 서비스로 Open Search를 �
 ---
 
 ![01opensearch](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/dd2abebc-7ae7-45d2-b472-961406259133)
+
+
+## 사전 준비 사항 (Pre-requisites)
+- Compartment, User Group, Policy, Network 생성 및 Bastion VM으로 사용할 Compute Instance가 생성되어 있어야 합니다.
+- Data Stream이 생성되어 있어야 합니다.
