@@ -1,5 +1,5 @@
 # ODWS-S04-ADB-Data-Visualization
-
+---
 
 Oracle Data Platform 워크샵에서 Oracle Search Service with Open Search로 검색을 구현하는 부분입니다.
 
