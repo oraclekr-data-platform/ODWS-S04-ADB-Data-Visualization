@@ -9,7 +9,8 @@ Oracle Search with Open Search는 완전관리형 서비스로 Open Search를 �
 
 또, Open Search 대시보드를 구성하여 저장된 데이터를 시각화해 볼 것입니다. 
 
-
+<br></br>
+<br></br>
 
 
 
@@ -19,7 +20,7 @@ Oracle Search with Open Search는 완전관리형 서비스로 Open Search를 �
 
 
 
-
+<br></br>
 
 ## 사전 준비 사항 (Pre-requisites)
 - Compartment, User Group, Policy, Network 생성 및 Bastion VM으로 사용할 Compute Instance가 생성되어 있어야 합니다.
