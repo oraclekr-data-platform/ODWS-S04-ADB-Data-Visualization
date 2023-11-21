@@ -9,10 +9,15 @@ Oracle Search with Open Search는 완전관리형 서비스로 Open Search를 �
 
 또, Open Search 대시보드를 구성하여 저장된 데이터를 시각화해 볼 것입니다. 
 
----
+
+
+
 
 
 ![0-1](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/ab666646-b2d8-4fb7-ba4a-c2df650558e7)
+
+
+
 
 
 
