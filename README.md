@@ -13,9 +13,7 @@ Oracle Search with Open Search는 완전관리형 서비스로 Open Search를 �
 <br></br>
 
 
-
-
-![0-1](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/ab666646-b2d8-4fb7-ba4a-c2df650558e7)
+![0-1](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/569c3428-a7e8-43fd-bf97-f0b762940fb5)
 
 
 
