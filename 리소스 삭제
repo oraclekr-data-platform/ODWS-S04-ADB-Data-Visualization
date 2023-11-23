@@ -3,4 +3,38 @@
 
 Oracle Data Platform 워크샵에서 사용한 리소스를 삭제하는 과정입니다.
 
+-----
 
+# 1. Compute Instance 삭제하기
+
+우측의 3개 점을 클릭해서 terminate를 누른 후 새 창에서 가이드하는 대로 삭제합니다.
+
+![10-1](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/4c9ececa-daf0-4736-8e40-ca95524602ee)
+
+![10-2](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/32a0058f-23de-4d5e-a5be-ba6510aadcbe)
+
+# 2. Open Search Cluster 삭제하기
+
+우측의 3개 점을 클릭해서 delete를 누른 후 새 창에서 가이드하는 대로 삭제하면 됩니다.
+
+![10-3](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/ebfb23a9-6f4f-4b5f-9e1c-8c76f7801476)
+
+# 3. Container Instance 삭제하기
+
+우측의 3개 점을 클릭해서 delete를 누른 후 새 창에서 가이드하는 대로 삭제하면 됩니다.
+
+![10-4](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/8b5f676b-3517-43d4-8a98-6d5f976ccf49)
+
+# 4. Enhanced_Stream 삭제하기
+
+우측의 3개 점을 클릭해서 delete를 누른 후 새 창에서 가이드하는 대로 삭제하면 됩니다.
+
+![10-5](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/8d1bdc00-5ea3-4dd0-9da4-b32bd35f0673)
+
+# 5. VCN 삭제하기
+
+우측의 3개 점을 클릭해서 delete를 누른 후 새 창에서 Specific compartment를 선택해서 가이드하는 대로 삭제하면 됩니다.
+
+![10-6](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/5e71ab85-1706-4f37-9deb-12e16d4f707f)
+
+![10-7](https://github.com/oraclekr-data-platform/ODWS-S04-ADB-Data-Visualization/assets/150219167/7eb71a49-06ff-46ba-b8f8-81f1d58aca74)
